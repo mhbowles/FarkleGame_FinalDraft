@@ -1,0 +1,52 @@
+============
+FARKLE RULES
+============
+
+The Play:
+
+Enter the number of players (2 players minimum).
+
+Player rolls all six dice at the same time.
+They can choose to SCORE any of the dice,
+or to HOLD them - to be rolled again.
+Scored points from any POINT DICE are added to the score for the turn - the TURN SCORE.
+(1s, 5s, or three of a kind). 
+Here they can choose to roll the dice again - and score more points,
+or stop - and add the turn score to their kept TOTAL SCORE (read Entering the Game).
+If Player stops, the turn ends and passes to the next player.
+
+1-5 point dice scored. Player can choose which dice to score and which to hold. 
+0 point dice scored: FARKLE. Player's turn ends and the turn score is discarded.
+6 point dice scored: REROLL. Player must roll all six dice again before they can stop rolling.
+
+
+Scoring Point Dice
+
+A 1 is worth 100 points.
+A 5 is worth 50 points.
+A THREE-OF-A-KIND - three dice of the same value - is worth 100x the face value
+(example: 2 2 2 is worth 200 points)
+Except! A THREE-EYED-SNAKE - three 1s - is worth 1000 points.
+
+
+Entering the Game:
+
+For a player to keep their turn score at the end of a turn, they must enter the game. 
+To enter, they must score at least 500 points during one turn.
+Once entered, they can choose to stop rolling the dice at any time.
+
+
+Winning
+
+To win, a player must reach a kept total score of 10000 points.
+Once a player reaches a winning score, each other player gets a LAST CHANCE to beat their score.
+After all last chance turns, the player with the highest total score wins. 
+
+
+(pssst.)
+(all point dice do not have to be set aside.)
+(the more dice held, the higher chance of rolling a three of a kind.)
+
+Scroll to the top to read the full list of rules. 
+Enjoy...
+
